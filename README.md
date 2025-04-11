@@ -60,10 +60,11 @@ Designed to simplify the book management process in educational institutions.
 
 ## 🧑‍💼 Internships
 
+- **Upskill Vision Your Learing Path** @ *Infosys* (Infosys Collaboration)  
+  _Feb 2025 – Apr 2025_  
+
 - **Full Stack Web Developer** @ *Pantech.ai, Chennai*  
   _Mar 2024 – Jun 2024_  
-- **Web Developer Intern** @ *Upskill Vision* (Infosys Collaboration)  
-  _Feb 2025 – Apr 2025_  
 
 ---
 
